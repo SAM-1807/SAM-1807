@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm SAM
 
-<!--
-**SAM-1807/SAM-1807** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student at Nnamdi Azikiwe University, learning software
+engineering from the low level up.
 
-Here are some ideas to get you started:
+My current focus is C — pointers, memory, data structures, recursion, and
+the things that most languages hide from you. I work in the terminal,
+version everything with Git, and care about code I can explain and debug
+rather than code that merely runs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+The pinned projects below are what I'm building. The guessing game is the
+first one I designed from scratch, without a task list telling me what to
+do next.
+
+**Languages and tools:** C, Linux, Git, Vim, Emacs
+**Currently learning:** Data structures, static and shared libraries, and
+the C standard library internals
+**Reach me:** agbaisamuel13@gmail.com
