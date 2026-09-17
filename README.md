@@ -1,4 +1,4 @@
-# Hi, I'm SAM
+# Hi, I'm SAM.
 
 Computer Science student at Nnamdi Azikiwe University, learning software
 engineering from the low level up.
